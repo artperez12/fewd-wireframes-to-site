@@ -1,0 +1,71 @@
+
+
+body {
+	color: white;
+	background-color: pink;
+}
+img {
+	max-width: 300px;
+	max-height: 300px;
+	vertical-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+h1{
+	text-align: center;
+}
+
+.h1 {
+	font-size: 60px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	text-shadow: 3px 3px black;
+}
+
+.performers {
+	padding: 30px;
+	margin: 20px;
+	border: 3px solid purple;
+	border-radius: 50px;
+	float: right;
+	box-shadow: 3px 3px black;
+}	
+.food {
+	padding: 30px;
+	margin: 20px;
+	border: 3px solid purple;
+	border-radius: 50px;
+	float: left;
+	box-shadow: 3px 3px black;
+
+}
+
+
+.info {
+	padding: 5px;
+	margin: 13px;
+	border: 3px solid purple;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	float: center;
+	font-size: 30px;
+	box-shadow: 2px 2px black;
+
+
+}
+#guest {
+	padding: 5px;
+	margin: 13px;
+	border: 3px solid purple;
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:pink;
+   border-bottom: 0px;
+}
+
+
+
+
